@@ -10,3 +10,7 @@ Team members:
 5) Mustafa Ata SAĞLAMOĞLU
 
 Project: Urban Sounds Classification using OpenCV and Convolutional Neural Networks (CNN)
+
+Note: We used shared materials (images, spectograms) for this project. You can find the source link down below.
+
+Link: https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dGANZWmCog
